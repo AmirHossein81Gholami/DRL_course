@@ -1,1 +1,3 @@
 *.drawio
+/.mypy_cache
+/src
